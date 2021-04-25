@@ -1,0 +1,53 @@
+#sadGirl{
+    position:absolute;
+    width:350px;
+    height:auto;
+    bottom:40%;
+    opacity: 100%;
+}
+
+#cake{
+    position:absolute;
+    left:135px;
+    width:80px;
+    height:auto;
+    bottom:10%;
+}
+
+#happyGirl{
+    position:absolute;
+    width:589px;
+    height:auto;
+    left: -124px;
+    bottom:26.2%;
+    opacity: 0%;
+}
+
+#plate {
+    position:absolute;
+    height: 20px;
+    width: 20px;
+    top: 400px;
+    left:165px;
+    background-color: #555;
+    opacity: 00%;
+}
+
+#table {
+    position:absolute;
+    height: 400px;
+    width: 350px;
+    top: 350px;
+    left:0px;
+    background-color: #555;
+    opacity: 00%;
+}
+
+#screen {
+    position:relative;
+    height: 750px;
+    width: 350px;
+    border-width: 5x;
+    border-color: black;
+    border-style: solid;
+}
