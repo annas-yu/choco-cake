@@ -9,9 +9,17 @@
 #cake{
     position:absolute;
     left:135px;
-    width:80px;
+    width:70px;
     height:auto;
     bottom:10%;
+}
+
+#plate{
+    position:absolute;
+    left:115px;
+    top: 425px;
+    width:120px;
+    height:auto;
 }
 
 #happyGirl{
@@ -23,22 +31,12 @@
     opacity: 0%;
 }
 
-#plate {
+#AOE {
     position:absolute;
-    height: 20px;
-    width: 20px;
-    top: 400px;
-    left:165px;
-    background-color: #555;
-    opacity: 00%;
-}
-
-#table {
-    position:absolute;
-    height: 400px;
-    width: 350px;
-    top: 350px;
-    left:0px;
+    height: 1px;
+    width: 10px;
+    top: 415px;
+    left:170px;
     background-color: #555;
     opacity: 00%;
 }

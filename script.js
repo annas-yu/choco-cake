@@ -73,10 +73,10 @@ function dragElement(elmnt) {
 
 function checkHappiness() {
     let cake = document.getElementById("cake")
-    let plate = document.getElementById("plate")
+    let AOE = document.getElementById("AOE")
     let happyGirl = document.getElementById("happyGirl")
     let sadGirl = document.getElementById("sadGirl")
-    if (isOverlapping(cake, plate)) {
+    if (isOverlapping(cake, AOE)) {
         sadGirl.style.opacity = "0%"
         happyGirl.style.opacity = "100%"
     } else {
